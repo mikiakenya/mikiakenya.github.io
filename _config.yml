@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium Test
-subtitle: "Pretend there is something inspriational here"
-email: test@test.com
-name: Test
+title: MIKIA
+subtitle: "My Indigenous Knowledge In Action"
+email: mikiakenya@outlook.com
+name: MIKIA
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Put Traditional Indigenous Knowledge into action for co-existence with nature, conservation of biodiversity, cultural preservation, and regeneration across generations.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
