@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "/assets/sunset_small.JPG"
-logo: "/assets/mikia.png"
+cover: "/assets/women.jpg"
+logo: "/assets/mikia-red-500.png"
 
 # Build settings
 markdown: kramdown
