@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/about-500.jpg "Profile Picture"){:.profile}
 
 ### What is MIKIA?
 MIKIA is an indigenous people's organization led by a young indigenous leader, committed to revitalizing, preserving, and regenerating Indigenous Traditional Knowledge (ITK) and cultural heritage. We uphold the resilience of indigenous peoples and their deep connection to nature. MIKIA aims to empower indigenous communities amidst external challenges by integrating traditional wisdom with scientific insights, fostering harmonious coexistence with the natural world. Indigenous approaches to living in harmony with nature are the most inclusive globally.
