@@ -36,15 +36,15 @@ pagination:
   permalink: "/page/:num/"
   sort_reverse: true
 
-# Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
+# Archive settings (see https://github.com/jekyll/jekyll-archives/) ***REMOVED*** NOT SUPPORTED BY GITHUB PAGES
+#jekyll-archives:
+#  enabled:
+#    - categories
+#    - tags
+#  layout: 'archive'
+#  permalinks:
+#    category: '/category/:name/'
+#    tag: '/tag/:name/'
 
 # Disqus comments
 # disqus_shortname: bencentra
